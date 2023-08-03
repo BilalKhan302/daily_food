@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997977122319",
+    "project_id": "wastefoodmangement",
+    "storage_bucket": "wastefoodmangement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997977122319:android:a85a698914660a228be57a",
+        "android_client_info": {
+          "package_name": "com.example.daily_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVRfSiMg7LIdR0JIMNVEJAwX5TDFZaDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
